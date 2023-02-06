@@ -86,23 +86,7 @@ p {
     background-color: #2589bd;
 }
 
-/* Consolidated CLASSES 'benefit-lead', 'benefit-brand', and 'benefit-cost' into CLASS 'benefit-style' */
-
-.benefit-style {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
-.benefit-style h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
-
-.benefit-style img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
+/* Consolidated CLASSES 'search-engine-optimization', 'online-reputation-management', and 'social-media-marketing' into CLASS 'content-style' */
 
 .content-style {
     margin-bottom: 20px;
@@ -120,6 +104,24 @@ p {
 .content-style h2 {
     margin-bottom: 20px;
     font-size: 36px;
+}
+
+/* Consolidated CLASSES 'benefit-lead', 'benefit-brand', and 'benefit-cost' into CLASS 'benefit-style' */
+
+.benefit-style {
+    margin-bottom: 32px;
+    color: #ffffff;
+}
+
+.benefit-style h3 {
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+.benefit-style img {
+    display: block;
+    margin: 10px auto;
+    max-width: 150px;
 }
 
 footer {
