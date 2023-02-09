@@ -2,7 +2,7 @@
 
 ## Description
 
-This project was created to refactor the HTML and CSS of a theoretical website for the purposes of improving accessbility and SEO as well as following the DRY principle. Several HTML elements were changed to semantic HTML elements, unused ID's were removed, alternate text was added for images, and classes were consolidated where applicable. Similarly, the CSS also reflects these changes, with several selectors being consolidated as they performed similar functions. The majority of these changes can be found as comments in the HTML and CSS itself. 
+This project was created to refactor the HTML and CSS of a theoretical website for the purposes of improving accessbility and SEO as well as following the DRY principle. Several HTML elements were changed to semantic HTML elements, alternate text was added for images, and classes were consolidated where applicable. Similarly, the CSS also reflects these changes, with several selectors being consolidated as they performed similar functions. The majority of these changes can be found as comments in the HTML and CSS itself. 
 
 ![Screenshot](/assets/images/screenshot.jpg)
 
