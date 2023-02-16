@@ -8,6 +8,7 @@ body {
     background-color: #d9dcd6;
 }
 
+/* Changed '.header' to 'header' to represent change from class to semantic HTML element. */
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -15,15 +16,18 @@ header {
     color: #ffffff;
 }
 
+/* Changed '.header' to 'header' to represent change from class to semantic HTML element. */
 header h1 {
     display: inline-block;
     font-size: 48px;
 }
 
+/* Changed '.header' to 'header' to represent change from class to semantic HTML element. */
 header h1 .seo {
     color: #d9dcd6;
 }
 
+/* Changed '.header' to 'header' and 'div' to 'nav' to represent changes to semantic HTML elements. */
 header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -32,10 +36,12 @@ header nav {
     font-size: 20px;
 }
 
+/* Changed '.header' to 'header' and 'div' to 'nav' to represent changes to semantic HTML elements. */
 header nav ul {
     list-style-type: none;
 }
 
+/* Changed '.header' to 'header' and 'div' to 'nav' to represent changes to semantic HTML elements. */
 header nav ul li {
     display: inline-block;
     margin-left: 25px;
@@ -107,7 +113,6 @@ p {
 }
 
 /* Consolidated CLASSES 'benefit-lead', 'benefit-brand', and 'benefit-cost' into CLASS 'benefit-style' */
-
 .benefit-style {
     margin-bottom: 32px;
     color: #ffffff;
@@ -124,6 +129,7 @@ p {
     max-width: 150px;
 }
 
+/* Changed '.footerr' to 'footer' to represent change from class to semantic HTML element. */
 footer {
     padding: 30px;
     clear: both;
@@ -131,6 +137,7 @@ footer {
     text-align: center;
 }
 
-footer h2 {
+/* Changed '.header' to 'header' and 'h2' to 'h4' to represent changes to HTML elements. */
+footer h4 {
     font-size: 20px;
 }
